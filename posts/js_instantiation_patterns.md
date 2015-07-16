@@ -3,7 +3,7 @@
 title: JavaScript Instantiation Patterns
 ---
 
-JavaScript lacks an explicit class constructor and, as a result, developers must rely upon other techniques for building classes. There are four commonly found instantiation patterns that can be used for constructing class objects. In this post I illustrate each instantiation pattern and discuss the pros and cons. Click HERE to download the code I use in the below examples.
+JavaScript lacks an explicit class constructor and, as a result, developers must rely upon other techniques for building classes. There are four commonly found instantiation patterns that can be used for constructing class objects. In this post I illustrate each instantiation pattern and discuss the pros and cons.
 
 ### Functional Instantiation
 ```
