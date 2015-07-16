@@ -1,3 +1,5 @@
+## Pluto Satellite is Cool
+
 The new image shows a crisp, clear view of Pluto's surface, and it's covered with wide smooth areas, lumpy terrain and mountains. Huge mountains.
 
 "They would stand up respectably against the Rocky Mountains," said John Spencer, a planetary scientist on the New Horizons mission.
